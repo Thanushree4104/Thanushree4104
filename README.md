@@ -38,13 +38,6 @@ Hide your secrets in sound waves. Security that’s literally music to your ears
 *Python | Flask | MFA*  
 A user-friendly MFA system with strong password hashing — basically, a bouncer for your accounts 🛡️.  
 
----
+---  
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />  
-</p>  
-
----
-
-⚡ *Fun Fact:* I don’t just break into systems — I also break the ice with bad jokes (encrypted, of course).  
 
