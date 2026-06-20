@@ -16,7 +16,7 @@
 
 ## 🌟 About Me  
 
-I’m a *3rd-year Cybersecurity student* at **Shiv Nadar University**, surviving B.Tech with the help of ☕ and a love for breaking (and fixing) systems.  
+I’m a *final year Cybersecurity student* at **Shiv Nadar University**, surviving B.Tech with the help of ☕ and a love for breaking (and fixing) systems.  
 I thrive on hunting vulnerabilities, building secure tools, and blending creativity with tech — like hiding secrets inside sound waves 🎶 or creating quirky MFA systems.  
 
 - 📝 Presented research on *Cyber Espionage* at **National Cyber-Crime Conference** and on *Plasma Chain Security* at **IIIT Kottayam**  
